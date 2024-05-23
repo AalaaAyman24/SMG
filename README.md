@@ -38,7 +38,7 @@ Simple Maze Game is a Python-based game that generates a maze using the Depth-Fi
 - **Pygame Initialization:** Initialize Pygame and create the game window.
 - **Maze Generation:** Function to generate the maze using Depth-First Search.
 - **Heuristic Function:** Calculate the Manhattan distance used in the A* algorithm.
-- **A* Pathfinding Algorithm:** Find the shortest path from the start to the goal.
+- **A** Pathfinding Algorithm:** Find the shortest path from the start to the goal.
 - **Drawing Functions:** Functions to draw the maze, path, text, and buttons.
 - **Main Menu:** Display the main menu and start the game.
 - **Main Game Function:** Handle game logic, including player movement, AI control, and timing.
